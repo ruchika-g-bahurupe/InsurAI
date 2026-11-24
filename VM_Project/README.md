@@ -584,6 +584,7 @@ dependencies and preparing a local database.
   `tests/test_gemini_watchdog_docs.py`   Gemini client integration behavior,
                                          Watchdog tool-dispatch behavior,
                                          and document file-serving behavior.
+                                         
   --------------------------------------------------------------------------
 
 Run the standalone scripts individually:
