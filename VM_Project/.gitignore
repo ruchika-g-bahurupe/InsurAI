@@ -1,0 +1,34 @@
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# RAG generated data
+backend/chroma_db/
+backend/uploaded_knowledge_docs/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Frontend generated files
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+.vscode/
