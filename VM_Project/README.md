@@ -1,8 +1,8 @@
-# InsureDesk AI
+# InsureAI
 
 ### Insurance Customer Intelligence Platform
 
-InsureDesk AI is a web application for insurance teams to review
+InsureAI is a web application for insurance teams to review
 customer portfolios, monitor policy and premium risks, track document
 compliance, and investigate customer cases with AI assistance.
 
@@ -31,7 +31,7 @@ policies, premiums, claims, renewals, and mandatory documents. Reviewing
 these records manually can make it difficult to identify customers who
 need timely follow-up.
 
-InsureDesk AI is designed to bring these records together and help an
+InsureAI is designed to bring these records together and help an
 insurance employee answer questions such as:
 
 -   Which customers need immediate attention?
@@ -355,7 +355,7 @@ retrieval before relying on it in an Investigator conversation.
 ## Repository structure
 
 ``` text
-InsureDesk_AI/
+InsureAI/
 │
 ├── backend/
 │   ├── app/
@@ -422,10 +422,10 @@ The commands below are written for **Windows PowerShell**.
 
 ``` powershell
 git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd InsureDesk_AI
+cd InsureAI
 ```
 
-If you are using a ZIP file, extract it and open the `InsureDesk_AI`
+If you are using a ZIP file, extract it and open the `InsureAI`
 folder in VS Code or PowerShell.
 
 ### 2. Create the backend environment
