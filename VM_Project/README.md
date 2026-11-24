@@ -308,6 +308,7 @@ flowchart TD
   `app/rag/rag_service.py`            Coordinates upload, processing,
                                       indexing, retrieval, search, and
                                       question-answering workflows.
+                                      
   -----------------------------------------------------------------------
 
 A valid Gemini configuration is required for the embedding and live
